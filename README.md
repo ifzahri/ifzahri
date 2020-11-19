@@ -13,4 +13,11 @@ I'm Iftala Zahri Sukmana, currently studying at SMKN 1 Cimahi, majoring in Infor
 **This is my personal repository**
 Feel free to check my repository, don't forget to notify me if you found something wrong or want to use my projects :grin:
 
-![ifzahri's github stats](https://github-readme-stats.vercel.app/api?username=ifzahri&show_icons=true&bg_color=424344&title_color=fff&icon_color=fff&text_color=d9a618&show_owner=false)
+**Stats Section**
+
+![ifzahri's github stats](https://github-readme-stats.vercel.app/api?username=ifzahri&show_icons=true&theme=algolia&hide=contribs,prs)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ifzahri&layout=compact&show_icons=true&theme=algolia)
+
+**Some of my proudest projects**
+
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ifzahri&repo=Codeigniter-SITANGKAS&show_icons=true&theme=algolia)
