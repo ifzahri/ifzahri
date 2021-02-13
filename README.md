@@ -6,7 +6,7 @@
 
 I'm Iftala Zahri Sukmana, currently studying at SMKN 1 Cimahi, majoring in Informatics, Networking, and Application System (SIJA), I can say I'm an DevOps and Cybersecurity Enthusiast, Programming Lovers, Learner, and Good People :smiley:
 
-- 🌱 I’m currently learning Python, ES6, TypeScript
+- 🌱 I’m currently learning Python, VueJS, and Microservices
 - 💬 Ask me about ANYTHING! feel free to reach me
 - 📫 How to reach me: via E-mail (circlebytes.iftala@gmail.com), [Twitter](https://twitter.com/circlebytes), or [Instagram](https://www.instagram.com/rhodefrost/) 
 
