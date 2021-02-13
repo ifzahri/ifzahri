@@ -23,3 +23,4 @@ Feel free to check my repository, don't forget to notify me if you found somethi
 **Some of my proudest projects**
 
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ifzahri&repo=Codeigniter-SITANGKAS&show_icons=true&theme=algolia)
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ifzahri&repo=SIMANISPEKA&show_icons=true&theme=algolia)
