@@ -19,8 +19,3 @@ Feel free to check my repository, don't forget to notify me if you found somethi
 
 ![ifzahri's github stats](https://github-readme-stats.vercel.app/api?username=ifzahri&show_icons=true&theme=algolia&hide=contribs,prs)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ifzahri&layout=compact&show_icons=true&theme=algolia)
-
-**Some of my proudest projects**
-
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ifzahri&repo=Codeigniter-SITANGKAS&show_icons=true&theme=algolia)
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ifzahri&repo=SIMANISPEKA&show_icons=true&theme=algolia)
