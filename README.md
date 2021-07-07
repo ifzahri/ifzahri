@@ -14,8 +14,3 @@ I also have my [personal blog](http://circlebytes.me/), you can check that out a
 
 **This is my personal repository**
 Feel free to check my repository, don't forget to notify me if you found something wrong or want to use my projects :grin:
-
-**Stats Section**
-
-![ifzahri's github stats](https://github-readme-stats.vercel.app/api?username=ifzahri&show_icons=true&theme=algolia&hide=contribs,prs)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ifzahri&layout=compact&show_icons=true&theme=algolia)
