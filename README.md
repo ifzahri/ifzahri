@@ -4,7 +4,7 @@
 **ifzahri/ifzahri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
 -->
 
-I'm Iftala Zahri Sukmana, currently studying at SMKN 1 Cimahi, majoring in Informatics, Networking, and Application System (SIJA), I can say I'm an DevOps and Cybersecurity Enthusiast, Programming Lovers, Learner, and Good People :smiley:
+I'm Iftala Zahri Sukmana, soon to be studying at Institut Teknologi Sepuluh Nopember, majoring in Informatics (Teknik Informatika), I can say I'm an DevOps and Cybersecurity Enthusiast, Programming Lovers, Learner, and Good People :smiley:
 
 - 🌱 I’m currently learning Python, Laravel, and Ruby on Rails
 - 💬 Ask me about ANYTHING! feel free to reach me
