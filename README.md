@@ -6,7 +6,7 @@
 
 I'm Iftala Zahri Sukmana, studying at Institut Teknologi Sepuluh Nopember, majoring in Informatics (Teknik Informatika), I can say I'm an DevOps and Cybersecurity Enthusiast, Programming Lovers, Learner, and Good People :smiley:
 
-- 🌱 I’m currently learning Python, and Golang
+- 🌱 I’m currently learning Python, React, and TypeScript
 - 💬 Ask me about ANYTHING! feel free to reach me
 - 📫 How to reach me: via E-mail (circlebytes.iftala@gmail.com), [Twitter](https://twitter.com/circlebytes), or [Instagram](https://www.instagram.com/rhodefrost/) 
 
